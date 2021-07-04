@@ -1,10 +1,7 @@
 # Spatio Temporal Forecasting of Events Using Graph Convolutional Neural Networks
 
 <p align="center">
-  
-  <a href=\"https://colab.research.google.com/github/PedroNatali/Spatio-Temporal-Forecasting-of-Events-Using-Graph-Convolutional-Neural-Networks/blob/main/TCC.ipynb\" target=\"_parent\">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab">
-  </a>
+  <a href=\"https://colab.research.google.com/github/PedroNatali/Spatio-Temporal-Forecasting-of-Events-Using-Graph-Convolutional-Neural-Networks/blob/main/TCC.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
 </p>
 
 This repository contains supplementary material of the Thesis "Spatio Temporal Forecasting of Events Using Graph Convolutional Neural Networks" as a parcial requisite to fullfill computer engineering course of Universidade de São Paulo, São Carlos. 
