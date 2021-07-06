@@ -4,6 +4,9 @@
   <a href="https://colab.research.google.com/github/PedroNatali/Spatio-Temporal-Forecasting-of-Events-Using-Graph-Convolutional-Neural-Networks/blob/main/TCC.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
   </a>
+  <a href = "">
+    <img src "https://img.shields.io/static/v1?label=<>&message=<Download Thesis>&color=<red>&style=<for-the-badge>&logo <https://commons.wikimedia.org/wiki/File:PDF_file_icon.svg>" alt = "Download Thesis" />
+  </a>
 </p>
 
 This repository contains supplementary material of the Thesis "Spatio Temporal Forecasting of Events Using Graph Convolutional Neural Networks" as a parcial requisite to fullfill computer engineering course of Universidade de São Paulo, São Carlos. 
