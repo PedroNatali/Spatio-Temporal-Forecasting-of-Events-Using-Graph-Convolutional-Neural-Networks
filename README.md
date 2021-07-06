@@ -5,7 +5,7 @@
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
   </a>
   <a href = "">
-    <img src="https://img.shields.io/static/v1?label=<>&message=<Download Thesis>&color=<red>&style=<for-the-badge>&logo <https://commons.wikimedia.org/wiki/File:PDF_file_icon.svg>" alt = "Download Thesis" />
+    <img src="https://img.shields.io/static/v1?label=Download&message=Thesis&color=red&style=for-the-badge&logo=" alt = "Download Thesis" />
   </a>
 </p>
 
